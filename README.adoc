@@ -2,7 +2,7 @@
 
 GitHub action that can be used to generate the https://antora.org/[Antora] site.
 
-It supports as opt-in the https://github.com/Mogztter/antora-site-generator-lunr[Lunr] index generator for documentation search.
+It supports as opt-in the https://github.com/Mogztter/antora-site-generator-lunr[Lunr] index generator for documentation search, and includes support for rendering https://plantuml.com/[PlantUML] by default.
 
 == Parameters
 
